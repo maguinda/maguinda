@@ -16,7 +16,7 @@
 
 Construyo sistemas de punta a punta: no solo el código, también el despliegue, la escalabilidad y la operación en producción.
 
-- 💼 **Technical Account Manager** en Visa — integración técnica y soporte a clientes en pagos.
+- 💼 **Technical Account Manager** en una empresa global de pagos — integración técnica y soporte a clientes.
 - 🛠️ Desarrollo full-stack con **Node.js, React y MySQL**, desplegado en la nube.
 - 🔐 Interés fuerte en **pagos, seguridad y detección de fraude**.
 - 📚 Aprendo construyendo: cada proyecto es un laboratorio real.
